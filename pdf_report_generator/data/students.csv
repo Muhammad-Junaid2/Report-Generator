@@ -1,0 +1,9 @@
+ID,Name,Email,Course,Department,Math,Science,English,History,CS,Attendance
+S001,Ahmed Hassan,ahmed.hassan@university.edu,BSc Computer Science,Engineering,88,92,76,81,95,94
+S002,Fatima Khan,fatima.khan@university.edu,BSc Data Science,Engineering,91,87,83,79,90,97
+S003,Ali Raza,ali.raza@university.edu,BBA Marketing,Business,74,68,88,85,72,89
+S004,Sara Malik,sara.malik@university.edu,BSc Electrical Eng,Engineering,85,90,71,75,88,92
+S005,Usman Tariq,usman.tariq@university.edu,BSc Computer Science,Engineering,79,84,80,77,93,85
+S006,Zainab Iqbal,zainab.iqbal@university.edu,BBA Finance,Business,82,70,86,88,78,91
+S007,Bilal Ahmed,bilal.ahmed@university.edu,BSc Civil Eng,Engineering,76,88,69,73,70,88
+S008,Nadia Hussain,nadia.hussain@university.edu,BSc Physics,Science,93,96,78,82,85,96

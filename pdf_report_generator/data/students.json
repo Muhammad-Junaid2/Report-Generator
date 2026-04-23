@@ -1,0 +1,33 @@
+{
+  "report_type": "student",
+  "institution": "National University of Technology",
+  "semester": "Fall 2024",
+  "students": [
+    {
+      "ID": "S009",
+      "Name": "Hassan Nawaz",
+      "Email": "hassan.nawaz@university.edu",
+      "Course": "BSc Software Engineering",
+      "Department": "Engineering",
+      "Math": 87,
+      "Science": 91,
+      "English": 79,
+      "History": 83,
+      "CS": 96,
+      "Attendance": 93
+    },
+    {
+      "ID": "S010",
+      "Name": "Amna Qureshi",
+      "Email": "amna.qureshi@university.edu",
+      "Course": "BSc Biochemistry",
+      "Department": "Science",
+      "Math": 78,
+      "Science": 94,
+      "English": 85,
+      "History": 80,
+      "CS": 74,
+      "Attendance": 98
+    }
+  ]
+}

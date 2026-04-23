@@ -1,0 +1,9 @@
+ID,Name,Email,Department,Role,Performance,Projects,Salary,YearsExperience,Status
+E001,Muhammad Aslam,m.aslam@techcorp.com,Engineering,Senior Developer,Excellent,12,150000,8,Active
+E002,Ayesha Siddiqui,a.siddiqui@techcorp.com,Marketing,Marketing Manager,Good,8,120000,5,Active
+E003,Kamran Baig,k.baig@techcorp.com,Sales,Sales Executive,Outstanding,15,130000,6,Active
+E004,Hina Javed,h.javed@techcorp.com,HR,HR Specialist,Good,6,90000,3,Active
+E005,Tariq Mahmood,t.mahmood@techcorp.com,Engineering,Backend Developer,Excellent,10,140000,7,Active
+E006,Sana Riaz,s.riaz@techcorp.com,Finance,Financial Analyst,Good,7,110000,4,Active
+E007,Faisal Sheikh,f.sheikh@techcorp.com,Engineering,DevOps Engineer,Outstanding,11,145000,6,Active
+E008,Maryam Akhtar,m.akhtar@techcorp.com,Design,UI/UX Designer,Excellent,9,125000,5,Active
