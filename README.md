@@ -185,6 +185,6 @@ Pull requests welcome. For major changes, please open an issue first.
 
 MIT License. See LICENSE for details.
 
-## Developer By
+## Developed By
 
-Muhammad Junaid# Report-Generator
+Muhammad Junaid
